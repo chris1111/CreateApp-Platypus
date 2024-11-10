@@ -4,7 +4,7 @@ layout: default
 
 # CreateApp-Platypus
 ## Script to create Platypus App from CLI
-Credit: [sveinbjorn.org](https://sveinbjorn.org/files/manpages/platypus.man.html)
+Credit: [sveinbjorn.org](https://sveinbjorn.org/files/manpages/platypus.man.html), [LICENSE](https://github.com/sveinbjornt/Platypus/blob/master/LICENSE.txt)
 
 [Script tool](https://github.com/chris1111/CreateApp-Platypus/blob/main/CreateApp%20Platypus.tool)
 

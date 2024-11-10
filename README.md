@@ -1,5 +1,5 @@
 # CreateApp-Platypus
-## Script to create Platypus App from CLI
+## Script to create a macOS application bundle from a command line script.
 Credit: [sveinbjorn.org](https://sveinbjorn.org/files/manpages/platypus.man.html), [LICENSE](https://github.com/sveinbjornt/Platypus/blob/master/LICENSE.txt)
 
 [Script tool](https://github.com/chris1111/CreateApp-Platypus/blob/main/CreateApp%20Platypus.tool)

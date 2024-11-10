@@ -1,0 +1,5 @@
+title: CreateApp-Platypus
+description: Script to create Platypus App from CLI
+github:
+  repository_url: https://github.com/chris1111/CreateApp-Platypus
+remote_theme: chris1111/cayman-dark

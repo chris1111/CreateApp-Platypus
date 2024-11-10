@@ -3,6 +3,9 @@
 Credit: [sveinbjorn.org](https://sveinbjorn.org/files/manpages/platypus.man.html)
 
 [Script tool](https://github.com/chris1111/CreateApp-Platypus/blob/main/CreateApp%20Platypus.tool)
+
+You need some knowledge of creating scripts to use with Platypus; You also need your Icon AppIcon.icns
+
 #### Clone repository
 ```bash
 git clone https://github.com/chris1111/CreateApp-Platypus.git

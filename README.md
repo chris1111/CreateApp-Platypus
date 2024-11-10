@@ -7,3 +7,7 @@ Credit: [sveinbjorn.org](https://sveinbjorn.org/files/manpages/platypus.man.html
 ```bash
 git clone https://github.com/chris1111/CreateApp-Platypus.git
 ```
+
+View Video Usage ⇩
+
+[![Modular Image Creation](https://github.com/user-attachments/assets/68f65560-03ae-4dfe-908f-554e30e2906b)](https://youtu.be/bqx0ulespcg)

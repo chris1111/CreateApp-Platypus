@@ -10,6 +10,8 @@ Credit: [sveinbjorn.org](https://sveinbjorn.org/files/manpages/platypus.man.html
 
 You need some knowledge of [creating scripts](https://github.com/sveinbjornt/Platypus/blob/master/Documentation/Documentation.md#syntax-checking) to use with Platypus; You also need your Icon AppIcon.icns
 
+For testing you can use [Exemple](https://github.com/chris1111/CreateApp-Platypus/tree/main/Exemple)
+
 #### Clone repository
 ```bash
 git clone https://github.com/chris1111/CreateApp-Platypus.git

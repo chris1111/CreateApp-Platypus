@@ -32,7 +32,7 @@ if [ -e "$CLI" ]; then
     platypus -o "$TYPE_NAME" -i "$ICONS_NAME" "$SCRIPT_NAME" -u "$CREATOR_NAME" -y ./"$APP_NAME"   
 else 
     echo "$CLI does not exist"
-    echo "Binaries are not installed, you must install them!"
+    echo "Binaries are not installed, you must install them"
     echo "Insert Your Password To Procceed"
     sudo mkdir -p /usr/local/bin
     sudo mkdir -p /usr/local/share/platypus

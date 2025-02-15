@@ -1,4 +1,7 @@
 # CreateApp-Platypus
+
+[![pages-build-deployment](https://github.com/chris1111/CreateApp-Platypus/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/chris1111/CreateApp-Platypus/actions/workflows/pages/pages-build-deployment)
+
 ## Script to create a macOS application bundle from a command line script.
 Credit: [sveinbjorn.org](https://sveinbjorn.org/files/manpages/platypus.man.html), [LICENSE](https://github.com/sveinbjornt/Platypus/blob/master/LICENSE.txt)
 
